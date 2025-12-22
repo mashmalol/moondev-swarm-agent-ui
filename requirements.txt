@@ -1,0 +1,41 @@
+# ============================================
+# 🌙 Moon Dev's Swarm Agent - Minimal Requirements
+# ============================================
+
+# Core Framework
+streamlit==1.28.0
+pandas==2.0.0
+numpy==1.24.0
+
+# AI Model Clients
+openai==1.12.0
+anthropic==0.25.0
+google-generativeai==0.3.0
+openrouter==0.1.0
+ollama==0.1.0
+requests==2.31.0
+
+# Terminal UI
+termcolor==2.3.0
+
+# File Processing
+PyPDF2==3.0.0
+python-docx==1.1.0
+openpyxl==3.1.0
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Async/Web
+aiohttp==3.9.0
+httpx==0.25.0
+
+# Data Visualization
+plotly==5.17.0
+
+# Security
+cryptography==41.0.0
+
+# CLI Enhancements
+click==8.1.0
+rich==13.5.0
