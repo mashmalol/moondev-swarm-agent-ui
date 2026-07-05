@@ -1,6 +1,6 @@
 # 🌙 Moon Dev's Swarm Agent
 
-A powerful multi-AI swarm agent that queries multiple language models in parallel (Claude, GPT, DeepSeek, Grok, Qwen, etc.) and generates consensus summaries. Perfect for trading analysis, decision-making, and multi-perspective AI queries.
+A powerful multi-AI swarm agent that queries multiple language models in parallel (Claude, GPT, DeepSeek, Grok, Qwen, etc.) and generates consensus summaries. Perfect for trading analysis, decision-making, and research.
 
 ## Features
 
@@ -116,10 +116,6 @@ SWARM_MODELS = {
 ## Contributing
 
 Contributions welcome! See [.github/copilot-instructions.md](.github/copilot-instructions.md) for developer guidance.
-
-## License
-
-MIT License - see LICENSE file for details
 
 ## Built by Moon Dev 🌙
 
